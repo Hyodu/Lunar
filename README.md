@@ -11,8 +11,7 @@
 [![Lunar](https://img.shields.io/badge/Lunar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bfubot)
 [![Updates](https://img.shields.io/badge/Updates-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+Yakw9kKUDF9iNjE0)
 [![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xeSaad)
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaUpcIqJuyA4hiyNYR1K)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.i3@aol.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyodu8@gmail.com)
 </div>
 
 ## What is Lunar? 
